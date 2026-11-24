@@ -12,8 +12,9 @@ import os
 import sys
 
 SENTENCE = (
-    "The internet is a machine that lets you send letters instantly "
-    "and read books from anywhere in the world."
+    "Picture every library, post office and market square on earth "
+    "folded into one small box of glass upon your table, where any "
+    "soul may read all men's books and speak so the whole world hears."
 )
 
 MAX_CHARS = 200
